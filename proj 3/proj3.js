@@ -9,3 +9,6 @@ noStroke(0)
   ellipse(mouseX, mouseY, 30)
   
 }
+function mousePressed () {
+  background(100);
+}
